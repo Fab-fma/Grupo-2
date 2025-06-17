@@ -2,12 +2,12 @@
 
 ## Datos generales
 
-- **Nombre del proyecto**:  
-- **Integrantes** (Nombres y códigos):  
+- **Nombre del proyecto**:  Diseño de Ciclovía
+- **Integrantes** (Nombres y códigos):  Fabian, Erick, Luciana
 - **Aula**: Teoría 1.01  
-- **Sala**: Sala 1 / 2 / 3  
-- **Grupo**: Grupo X
-- **Docente**: Nombre y Apellido  
+- **Sala**: Sala 1 
+- **Grupo**: Grupo 2
+- **Docente**: Nombre y Apellido  Patty
 
 ---
 
