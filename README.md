@@ -7,13 +7,16 @@
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 
 - **Grupo**: Grupo 2
-- **Docente**: Nombre y Apellido  Patty
+- **Docente**: Patty
 
 ---
 
 ## 1. Comprensión del problema 
 - Describa claramente los datos del problema.
+  plano, rutas(parametricas), dominios
 - Identifique claramente el objetivo de la pregunta.
+  pregunta 1: proponer trayectoria
+  pregunta 2: 
 - Describa las variables involucradas en el problema.
 
 ---
