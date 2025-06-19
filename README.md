@@ -64,18 +64,18 @@ Estas integrales fueron evaluadas numéricamente utilizando un script de Python.
 
 Los valores numéricos de las integrales obtenidas son:
 
-* **Para la Trayectoria 1 (Curva Cúbica - Nueva):**
+* **Para la Trayectoria 1 :**
     $$C_{P,1} = k_1 \cdot 1.776496$$
 
-* **Para la Trayectoria 2 (Curva Polinomial - Nueva):**
+* **Para la Trayectoria 2 :**
     $$C_{P,2} = k_1 \cdot 1.746158$$
 
 ## Conclusión
 
 Al comparar los costos de pendiente calculados para ambas trayectorias:
 
-* $C_{P,1}$ (Curva Cúbica) es aproximadamente $1.776 \cdot k_1$
-* $C_{P,2}$ (Curva Polinomial) es aproximadamente $1.746 \cdot k_1$
+* $C_{P,1}$ es aproximadamente $1.776 \cdot k_1$
+* $C_{P,2}$ es aproximadamente $1.746 \cdot k_1$
 
 Dado que $k_1$ es una constante positiva de proporcionalidad, la trayectoria con el menor valor numérico es la de menor costo.
 
