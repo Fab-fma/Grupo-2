@@ -16,10 +16,10 @@ $$f(x, y) = 4e^{-0.1(x^2+y^2)} + 2.5e^{-0.1[(x-5)^2+(y-5)^2]}$$
 
 Se evaluaron dos posibles trayectorias para la ciclovía:
 
-1.  **Trayectoria 1 (Curva Cúbica - Nueva):**
+1.  **Trayectoria 1 :**
     $$\mathbf{r}_1(t) = \langle 5t^3, 5t^3 \rangle, \quad t \in [0, 1]$$
 
-2.  **Trayectoria 2 (Curva Polinomial - Nueva):**
+2.  **Trayectoria 2 :**
     $$\mathbf{r}_2(t) = \langle 5t, 10t^3 - 15t^2 + 10t \rangle, \quad t \in [0, 1]$$
 
 ## Metodología del Costo de Pendiente
